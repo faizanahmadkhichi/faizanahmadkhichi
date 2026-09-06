@@ -45,11 +45,22 @@ I independently design, build, deploy and improve software across **AI, automati
 | **Poster Maker Pro** | A browser-based visual design and poster workspace | [Start designing →](https://faizankhichi.me/poster/) |
 | **AllDL** | Public-media download workflows across supported platforms | [Open AllDL →](https://alldl.faizankhichi.me/) |
 
+## Flagship private product
+
+### VistaClip AI — intelligent video creation and editing
+
+VistaClip AI turns an idea into a structured, editable video project through a quality-controlled AI workflow. It combines script development, voice generation, verified media selection, captions, timeline composition, preview and server rendering across landscape, portrait, square and classic formats.
+
+The production source remains private, but the engineering decisions, release evidence and product capabilities are documented in a public case study.
+
+[**Read the VistaClip AI case study →**](case-studies/vistaclip-ai.md) · [**Discuss a similar project →**](https://www.linkedin.com/in/faklabs/) · [**Hire me →**](https://www.fiverr.com/faklabs)
+
 ### Engineering case studies
 
 Source code for production systems remains private, but these public briefs document the product thinking, capabilities and engineering considerations behind selected releases.
 
 - [FAK LAB — building a discoverable platform for 90+ browser tools](case-studies/fak-lab.md)
+- [VistaClip AI — building a quality-controlled AI video production system](case-studies/vistaclip-ai.md)
 - [AllDL — designing a resilient multi-provider media workflow](case-studies/alldl.md)
 - [Poster Maker Pro — creating a responsive browser design workspace](case-studies/poster-maker-pro.md)
 
