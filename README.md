@@ -34,6 +34,8 @@ I independently design, build, deploy and improve software across **AI, automati
 - **Cloud systems:** edge deployments, serverless services and scalable backends
 - **Android experiences:** mobile-first utilities designed for real-world constraints
 - **Security & forensics:** responsible OSINT, privacy and digital-analysis workflows
+- **API engineering:** documented REST APIs, provider integrations, web-data extraction and automation services
+- **AI infrastructure:** model fine-tuning, GPU inference endpoints and containerized cloud deployments
 
 ## Featured products — try them live
 
@@ -55,6 +57,12 @@ The production source remains private, but the engineering decisions, release ev
 
 [**Read the VistaClip AI case study →**](case-studies/vistaclip-ai.md) · [**Discuss a similar project →**](https://www.linkedin.com/in/faklabs/) · [**Hire me →**](https://www.fiverr.com/faklabs)
 
+### Current AI research & development
+
+**AI Shayri by FAK** is an active private R&D project for Urdu poetry language adaptation. The current work includes a provenance-preserving classical Urdu dataset, deterministic train/validation/test splits, dataset validation, poem-preserving training chunks and a Qwen3-0.6B LoRA pilot. The next stage focuses on controlled generation by theme, poetic form, rhyme, refrain and length.
+
+My wider applied-AI experience includes lightweight model training, task-focused chatbot fine-tuning, generative-media workflows and deploying open-source inference workloads as APIs on GPU infrastructure.
+
 ### Engineering case studies
 
 Source code for production systems remains private, but these public briefs document the product thinking, capabilities and engineering considerations behind selected releases.
@@ -71,13 +79,38 @@ Source code for production systems remains private, but these public briefs docu
   <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python" alt="Python" />
   <img src="https://img.shields.io/badge/Go-111827?style=flat-square&logo=go" alt="Go" />
+  <img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk" alt="Java" />
+  <img src="https://img.shields.io/badge/Kotlin-111827?style=flat-square&logo=kotlin" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/PHP-111827?style=flat-square&logo=php" alt="PHP" />
+  <img src="https://img.shields.io/badge/Bash-111827?style=flat-square&logo=gnubash" alt="Bash" />
+  <img src="https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&logo=tailwindcss" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs" alt="Next.js" />
+  <img src="https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Cloudflare-111827?style=flat-square&logo=cloudflare" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/Firebase-111827?style=flat-square&logo=firebase" alt="Firebase" />
   <img src="https://img.shields.io/badge/Supabase-111827?style=flat-square&logo=supabase" alt="Supabase" />
   <img src="https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonwebservices" alt="AWS" />
   <img src="https://img.shields.io/badge/Android-111827?style=flat-square&logo=android" alt="Android" />
+  <img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker" alt="Docker" />
+  <img src="https://img.shields.io/badge/PyTorch-111827?style=flat-square&logo=pytorch" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Hugging_Face-111827?style=flat-square&logo=huggingface" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/CUDA-111827?style=flat-square&logo=nvidia" alt="CUDA" />
 </p>
+
+### Practical capability map
+
+| Area | Experience |
+| --- | --- |
+| **Languages** | Python, JavaScript, TypeScript, Go, Java, Kotlin, PHP, Bash, HTML and CSS |
+| **Web & backend** | React, Next.js, Node.js, FastAPI, Tailwind CSS, REST APIs and Swagger/OpenAPI |
+| **Android & desktop** | Android apps with Kotlin/Java and XML; selected Windows application work |
+| **AI & inference** | PyTorch, Transformers, Diffusers, LoRA fine-tuning, GPU inference APIs and generative-media pipelines |
+| **Cloud & delivery** | Cloudflare Workers, Docker, VPS hosting, serverless GPU workloads and production deployment |
+| **Automation & data** | Bots, API integrations, responsible web-data extraction and workflow automation |
 
 ## Why follow?
 
