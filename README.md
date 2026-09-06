@@ -1,10 +1,14 @@
 <div align="center">
 
+<img src="assets/github-profile-banner.svg" alt="Faizan Ahmad Khichi — Founder of FAK LABS, Software Developer, AI Engineer and Product Builder" width="100%" />
+
 # Faizan Ahmad Khichi
 
 ### Founder & CEO of FAK LABS · Software Developer · AI Engineer · Product Builder
 
 **I turn ambitious ideas into useful, production-ready digital products.**
+
+Based in Pakistan · Building for a global audience · Open to selected collaborations
 
 [![Portfolio](https://img.shields.io/badge/VIEW_PORTFOLIO-6C4BFF?style=for-the-badge)](https://portfolio.faizankhichi.me/) [![Explore FAK LAB](https://img.shields.io/badge/EXPLORE_FAK_LAB-111827?style=for-the-badge)](https://faizankhichi.me/) [![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faklabs/) [![Fiverr](https://img.shields.io/badge/WORK_WITH_ME-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/faklabs)
 
