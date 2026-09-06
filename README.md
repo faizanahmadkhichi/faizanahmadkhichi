@@ -45,6 +45,14 @@ I independently design, build, deploy and improve software across **AI, automati
 | **Poster Maker Pro** | A browser-based visual design and poster workspace | [Start designing →](https://faizankhichi.me/poster/) |
 | **AllDL** | Public-media download workflows across supported platforms | [Open AllDL →](https://alldl.faizankhichi.me/) |
 
+### Engineering case studies
+
+Source code for production systems remains private, but these public briefs document the product thinking, capabilities and engineering considerations behind selected releases.
+
+- [FAK LAB — building a discoverable platform for 90+ browser tools](case-studies/fak-lab.md)
+- [AllDL — designing a resilient multi-provider media workflow](case-studies/alldl.md)
+- [Poster Maker Pro — creating a responsive browser design workspace](case-studies/poster-maker-pro.md)
+
 ## Technology toolkit
 
 <p align="center">
