@@ -6,9 +6,9 @@
 
 ### Founder & CEO of FAK LABS · Software Developer · AI Engineer · Product Builder
 
-**I turn ambitious ideas into useful, production-ready digital products.**
+**I turn ambitious ideas into useful, production-ready digital products** — 111 free browser tools, a multi-tenant website hosting platform, and AI systems, designed, built and operated end-to-end from Pakistan for a global audience.
 
-Based in Pakistan · Building for a global audience · Open to selected collaborations
+Based in Pakistan · Building for a global audience · Open to remote engineering roles & selected collaborations
 
 [![Portfolio](https://img.shields.io/badge/VIEW_PORTFOLIO-6C4BFF?style=for-the-badge)](https://portfolio.faizankhichi.me/) [![Explore FAK LAB](https://img.shields.io/badge/EXPLORE_FAK_LAB-111827?style=for-the-badge)](https://faizankhichi.me/) [![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faklabs/) [![Fiverr](https://img.shields.io/badge/WORK_WITH_ME-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/faklabs)
 
@@ -16,9 +16,17 @@ Based in Pakistan · Building for a global audience · Open to selected collabor
 
 ---
 
-## Start here
+## About me
 
-I independently design, build, deploy and improve software across **AI, automation, cybersecurity, mobile, cloud infrastructure and the modern web**. My production repositories are mostly private, so this profile focuses on public products you can evaluate directly.
+I'm Faizan Ahmad Khichi, a software developer and AI engineer from Pakistan and the founder of **FAK LABS**, an independent software studio. I independently design, build, deploy and operate production software across **AI, automation, cybersecurity, mobile, cloud infrastructure and the modern web** — my production repositories are mostly private, so this profile focuses on public products you can evaluate directly.
+
+- 🔭 **Currently:** building **VistaClip AI** (quality-controlled AI video production), researching **AI Shayri** (Urdu poetry language adaptation with Qwen3 LoRA fine-tuning), and operating **FAK LAB** (111 free browser tools) and **FAK Cloud** (multi-tenant website hosting)
+- 🌱 **Learning:** deepening LLM fine-tuning and GPU inference work through active R&D
+- 🎯 **Goals:** ship VistaClip AI publicly, grow FAK LAB's global reach, and take on a remote software engineering role
+- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/faklabs/) (fastest) or [Fiverr](https://www.fiverr.com/faklabs) for project work
+- ⚡ **Fun fact:** I'm a self-taught developer — everything on this profile was learned by building and shipping
+
+## Start here
 
 | If you want to… | Start with… |
 | --- | --- |
