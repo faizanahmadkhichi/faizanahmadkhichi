@@ -91,6 +91,11 @@ VistaClip AI turns an idea into a structured, editable video project through a q
 
 The production source remains private, but the engineering decisions, release evidence and product capabilities are documented in a public case study.
 
+<img src="assets/vistaclip-pipeline.svg" alt="VistaClip AI pipeline: idea or title, research online, full script, subagents for clips, visuals, sound and look, templates, preview you edit, rendering, ready in under 30 minutes" width="100%" />
+
+How it works, in your words: a multi-step agent that takes an idea or title, researches the topic online, writes the full script, then splits the work to subagents — clips from YouTube and free stock providers, extracted by transcript and cut for use; entities and images for the video; voice and video effects, transitions and captions; visuals for figures, claims and maps, with cut and merge decisions; voiceover, background music, colour correction, and face-placement fixes when a stock photo puts a face in the wrong place. Built-in templates to start from, a preview you edit yourself before rendering, in Python and Node.js. A full ready-to-publish video in under 30 minutes: 3–6 minute videos take 10–20 minutes, 30–40 minute documentaries take more agents and longer. Built for documentaries, storytelling, research, and explaining any concept, product or person.
+
+
 [**Read the VistaClip AI case study →**](case-studies/vistaclip-ai.md) · [**Discuss a similar project →**](https://www.linkedin.com/in/faklabs/) · [**Hire me →**](https://www.fiverr.com/faklabs)
 
 ### Current AI research & development

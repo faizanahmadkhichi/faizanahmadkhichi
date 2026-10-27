@@ -30,8 +30,12 @@
 <text x="210" y="186" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#F5F6F7">Edit anytime</text>
 <text x="210" y="212" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#BFBFBF">Change prices, hours, photos</text>
 <text x="210" y="232" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#BFBFBF">from your phone in minutes</text></g>
-<circle cx="550" cy="320" r="92" fill="#E30613" stroke="#F5F6F7" stroke-width="3"/>
-<text x="550" y="308" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="900" fill="#FFFFFF">FAK CLOUD</text>
-<text x="550" y="334" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="900" fill="#FFFFFF">ENGINE</text>
-<text x="550" y="356" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#FFFFFF">Free to start - no card</text>
+<circle cx="550" cy="320" r="92" fill="#FFFFFF" stroke="#E30613" stroke-width="4"/>
+<g>
+  <rect x="498" y="252" width="28" height="28" fill="#111111"/><rect x="530" y="252" width="28" height="28" fill="#111111"/><rect x="562" y="252" width="28" height="28" fill="#111111"/><rect x="594" y="252" width="28" height="28" fill="#111111"/>
+  <rect x="498" y="284" width="28" height="28" fill="#111111"/>
+  <rect x="498" y="316" width="28" height="28" fill="#111111"/><rect x="530" y="316" width="28" height="28" fill="#111111"/><rect x="562" y="316" width="28" height="28" fill="#111111"/><rect x="594" y="316" width="28" height="28" fill="#0E7C86"/>
+  <rect x="498" y="348" width="28" height="28" fill="#111111"/>
+  <rect x="498" y="380" width="28" height="28" fill="#111111"/>
+</g>
 </svg>

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="760" viewBox="0 0 1100 760">
+<rect width="1100" height="760" rx="24" fill="#0D1117"/>
+<g><rect x="290" y="23" width="520" height="64" rx="18" fill="#141414" stroke="#E30613" stroke-width="1.5"/>
+<text x="550" y="59" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#F5F6F7">1 - Idea or title</text>
+</g>
+<line x1="550" y1="87" x2="550" y2="108" stroke="#E30613" stroke-width="3"/><polygon points="550,108 543,96 557,96" fill="#E30613"/>
+<g><rect x="290" y="108" width="520" height="64" rx="18" fill="#141414" stroke="#E30613" stroke-width="1.5"/>
+<text x="550" y="144" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#F5F6F7">2 - Research the topic online</text>
+</g>
+<line x1="550" y1="172" x2="550" y2="193" stroke="#E30613" stroke-width="3"/><polygon points="550,193 543,181 557,181" fill="#E30613"/>
+<g><rect x="290" y="193" width="520" height="64" rx="18" fill="#141414" stroke="#E30613" stroke-width="1.5"/>
+<text x="550" y="229" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#F5F6F7">3 - Write the full video script</text>
+</g>
+<line x1="550" y1="257" x2="550" y2="278" stroke="#E30613" stroke-width="3"/><polygon points="550,278 543,266 557,266" fill="#E30613"/>
+<g><rect x="290" y="278" width="520" height="64" rx="18" fill="#E30613" stroke="#F5F6F7" stroke-width="1.5"/>
+<text x="550" y="305" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#F5F6F7">4 - Work divided to subagents</text>
+<text x="550" y="325" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#BFBFBF">Python + Node.js system</text>
+</g>
+<line x1="550" y1="342" x2="150" y2="368" stroke="#E30613" stroke-width="2"/>
+<g><rect x="25" y="382" width="250" height="96" rx="18" fill="#141414" stroke="#E30613" stroke-width="1.5"/>
+<text x="150" y="407" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#F5F6F7">Clips</text>
+<text x="150" y="427" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#BFBFBF">YouTube + free stock</text>
+<text x="150" y="445" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#BFBFBF">Transcript-based extraction</text>
+<text x="150" y="463" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#BFBFBF">Clips cut out for use</text>
+</g>
+<line x1="550" y1="342" x2="417" y2="368" stroke="#E30613" stroke-width="2"/>
+<g><rect x="292" y="382" width="250" height="96" rx="18" fill="#141414" stroke="#E30613" stroke-width="1.5"/>
+<text x="417" y="407" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#F5F6F7">Visuals</text>
+<text x="417" y="427" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#BFBFBF">Entities and images</text>
+<text x="417" y="445" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#BFBFBF">Figures, claims, maps</text>
+<text x="417" y="463" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#BFBFBF">Where to cut and merge</text>
+</g>
+<line x1="550" y1="342" x2="684" y2="368" stroke="#E30613" stroke-width="2"/>
+<g><rect x="559" y="382" width="250" height="96" rx="18" fill="#141414" stroke="#E30613" stroke-width="1.5"/>
+<text x="684" y="407" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#F5F6F7">Sound + look</text>
+<text x="684" y="427" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#BFBFBF">Voiceover + music</text>
+<text x="684" y="445" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#BFBFBF">Effects, transitions, captions</text>
+<text x="684" y="463" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#BFBFBF">Colour + face placement fix</text>
+</g>
+<line x1="550" y1="342" x2="951" y2="368" stroke="#E30613" stroke-width="2"/>
+<g><rect x="826" y="382" width="250" height="96" rx="18" fill="#141414" stroke="#E30613" stroke-width="1.5"/>
+<text x="951" y="416" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#F5F6F7">Templates</text>
+<text x="951" y="436" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#BFBFBF">Built-in templates</text>
+<text x="951" y="454" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#BFBFBF">to start from</text>
+</g>
+<line x1="550" y1="478" x2="550" y2="499" stroke="#E30613" stroke-width="3"/><polygon points="550,499 543,487 557,487" fill="#E30613"/>
+<g><rect x="290" y="499" width="520" height="64" rx="18" fill="#141414" stroke="#E30613" stroke-width="1.5"/>
+<text x="550" y="535" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#F5F6F7">5 - Preview - you edit it yourself</text>
+</g>
+<line x1="550" y1="563" x2="550" y2="584" stroke="#E30613" stroke-width="3"/><polygon points="550,584 543,572 557,572" fill="#E30613"/>
+<g><rect x="290" y="584" width="520" height="64" rx="18" fill="#E30613" stroke="#F5F6F7" stroke-width="1.5"/>
+<text x="550" y="611" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#F5F6F7">6 - Rendering</text>
+<text x="550" y="631" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#BFBFBF">Ready to publish in under 30 minutes</text>
+</g>
+<text x="550" y="700" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#BFBFBF">3-6 min videos: 10-20 min  |  30-40 min documentaries: more agents, longer  |  Best for documentaries, storytelling, research, explaining a concept, product or person</text>
+</svg>
