@@ -20,7 +20,7 @@ Based in Lahore District, Punjab, Pakistan · Building for a global audience · 
 
 I'm Faizan Ahmad Khichi, a software developer and AI engineer from Pakistan and the founder of **FAK LABS**, an independent software studio. I independently design, build, deploy and operate production software across **AI, automation, cybersecurity, mobile, cloud infrastructure and the modern web** — my production repositories are mostly private, so this profile focuses on public products you can evaluate directly.
 
-- 🔭 **Currently:** building **VistaClip AI** (quality-controlled AI video production), researching **AI Shayri** (Urdu poetry language adaptation with Qwen3 LoRA fine-tuning), operating **FAK LAB** (108 free browser tools) and **FAK Cloud** (multi-tenant website hosting), and shipping **APEX as a native desktop app** (PyQt6, site parity as the floor, system control on top) plus the **Eyecon Lookup API** below
+- 🔭 **Currently:** building **VistaClip AI** (quality-controlled AI video production), researching **AI Shayri** (Urdu poetry language adaptation with Qwen3 LoRA fine-tuning), operating **FAK LAB** (108 free browser tools) and **FAK Cloud** (multi-tenant website hosting), and shipping **APEX as a native desktop app** (PyQt6, site parity as the floor, system control on top)
 - 🌱 **Learning:** deepening LLM fine-tuning and GPU inference work through active R&D
 - 🎯 **Goals:** ship VistaClip AI publicly, grow FAK LAB's global reach, and take on a remote software engineering role
 - 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/faklabs/) (fastest) or [Fiverr](https://www.fiverr.com/faklabs) for project work
@@ -61,10 +61,6 @@ I'm Faizan Ahmad Khichi, a software developer and AI engineer from Pakistan and 
 **APEX** is my desktop voice assistant with a custom "Hey Neo" wake word, a live particle humanoid face, and hand-gesture control (open palm to follow, fist to grab, pinch to click, wrist roll to spin). The interactive humanoid runs at [apex.faizankhichi.me](https://apex.faizankhichi.me/).
 
 Also live from FAK LABS: Passport Photo Maker (AI passport photos, 300-DPI export and print sheets), STL Maker (image-to-3D-printable relief), [Sound Effects](https://sounds-effects.fakcloud.tech/) (free sound effects library), and [FAK BOT](https://faklabbot.fakcloud.tech/) — full list on the [portfolio](https://portfolio.faizankhichi.me/).
-
-## Eyecon Lookup API — an API that works for its users
-
-**[eyecon.faizankhichi.me](https://eyecon.faizankhichi.me/)** is a CORS-open GET API: one request in, a lookup back, no sign-in, no origin restrictions. Under it sits a smart multi-tier cache (edge + global KV: found results 30 days, not-found 6 hours, stale served instantly while a fresh result refreshes in the background) and a 60-requests-per-minute per-IP limit, so repeat lookups never hit the backend again and abuse cannot take it down. Input is auto-corrected and validated for a real country before any backend call is made.
 
 Selected client work in the same period — portfolio upgrades for SEO, proper hosting, and custom domains — is kept off this profile by name, by design: the work speaks, the client list does not.
 
