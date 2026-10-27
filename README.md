@@ -6,9 +6,9 @@
 
 ### Founder & CEO of FAK LABS · Software Developer · AI Engineer · Product Builder
 
-**I turn ambitious ideas into useful, production-ready digital products** — 111 free browser tools, a multi-tenant website hosting platform, and AI systems, designed, built and operated end-to-end from Pakistan for a global audience.
+**I turn ambitious ideas into useful, production-ready digital products** — 108 free browser tools, a multi-tenant website hosting platform, and AI systems, designed, built and operated end-to-end from Pakistan for a global audience.
 
-Based in Pakistan · Building for a global audience · Open to remote engineering roles & selected collaborations
+Based in Lahore District, Punjab, Pakistan · Building for a global audience · Open to remote engineering roles & selected collaborations
 
 [![Portfolio](https://img.shields.io/badge/VIEW_PORTFOLIO-6C4BFF?style=for-the-badge)](https://portfolio.faizankhichi.me/) [![Explore FAK LAB](https://img.shields.io/badge/EXPLORE_FAK_LAB-111827?style=for-the-badge)](https://faizankhichi.me/) [![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faklabs/) [![Fiverr](https://img.shields.io/badge/WORK_WITH_ME-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/faklabs)
 
@@ -20,11 +20,12 @@ Based in Pakistan · Building for a global audience · Open to remote engineerin
 
 I'm Faizan Ahmad Khichi, a software developer and AI engineer from Pakistan and the founder of **FAK LABS**, an independent software studio. I independently design, build, deploy and operate production software across **AI, automation, cybersecurity, mobile, cloud infrastructure and the modern web** — my production repositories are mostly private, so this profile focuses on public products you can evaluate directly.
 
-- 🔭 **Currently:** building **VistaClip AI** (quality-controlled AI video production), researching **AI Shayri** (Urdu poetry language adaptation with Qwen3 LoRA fine-tuning), and operating **FAK LAB** (111 free browser tools) and **FAK Cloud** (multi-tenant website hosting)
+- 🔭 **Currently:** building **VistaClip AI** (quality-controlled AI video production), researching **AI Shayri** (Urdu poetry language adaptation with Qwen3 LoRA fine-tuning), operating **FAK LAB** (108 free browser tools) and **FAK Cloud** (multi-tenant website hosting), and shipping **APEX as a native desktop app** (PyQt6, site parity as the floor, system control on top) plus the **Eyecon Lookup API** below
 - 🌱 **Learning:** deepening LLM fine-tuning and GPU inference work through active R&D
 - 🎯 **Goals:** ship VistaClip AI publicly, grow FAK LAB's global reach, and take on a remote software engineering role
 - 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/faklabs/) (fastest) or [Fiverr](https://www.fiverr.com/faklabs) for project work
 - ⚡ **Fun fact:** I'm a self-taught developer — everything on this profile was learned by building and shipping
+- 👤 **About:** 18 years old, based in Lahore District, Punjab, Pakistan; Founder & CEO of FAK LABS since October 2024; speaks English, Urdu, Punjabi and Hindi; attended Punjab College Sheikhupura
 
 ## Start here
 
@@ -54,6 +55,18 @@ I'm Faizan Ahmad Khichi, a software developer and AI engineer from Pakistan and 
 | **Islamic Portal** | Quran, Hadith, prayer times, duas and daily resources | [Visit portal →](https://quran.fakcloud.tech/) |
 | **Poster Maker Pro** | A browser-based visual design and poster workspace | [Start designing →](https://faizankhichi.me/poster/) |
 | **AllDL** | Public-media download workflows across supported platforms | [Open AllDL →](https://alldl.faizankhichi.me/) |
+
+## APEX — desktop voice assistant
+
+**APEX** is my desktop voice assistant with a custom "Hey Neo" wake word, a live particle humanoid face, and hand-gesture control (open palm to follow, fist to grab, pinch to click, wrist roll to spin). The interactive humanoid runs at [apex.faizankhichi.me](https://apex.faizankhichi.me/).
+
+Also live from FAK LABS: Passport Photo Maker (AI passport photos, 300-DPI export and print sheets), STL Maker (image-to-3D-printable relief), [Sound Effects](https://sounds-effects.fakcloud.tech/) (free sound effects library), and [FAK BOT](https://faklabbot.fakcloud.tech/) — full list on the [portfolio](https://portfolio.faizankhichi.me/).
+
+## Eyecon Lookup API — an API that works for its users
+
+**[eyecon.faizankhichi.me](https://eyecon.faizankhichi.me/)** is a CORS-open GET API: one request in, a lookup back, no sign-in, no origin restrictions. Under it sits a smart multi-tier cache (edge + global KV: found results 30 days, not-found 6 hours, stale served instantly while a fresh result refreshes in the background) and a 60-requests-per-minute per-IP limit, so repeat lookups never hit the backend again and abuse cannot take it down. Input is auto-corrected and validated for a real country before any backend call is made.
+
+Selected client work in the same period — portfolio upgrades for SEO, proper hosting, and custom domains — is kept off this profile by name, by design: the work speaks, the client list does not.
 
 ## Flagship private product
 
@@ -122,13 +135,15 @@ Source code for production systems remains private, but these public briefs docu
 
 ## Why follow?
 
-Follow my GitHub for new product launches, engineering case studies, open-source utilities and practical experiments from FAK LABS. I care about software that is useful, fast, accessible and ready for real users—not disconnected demos.
+New product launches, engineering case studies, and tools you can actually try — not demos that never shipped. Every flagship above has a live link. Try it first, then judge the work.
 
 ## How I work
 
+- Build assets, not just hours: products and APIs that keep working for users after they ship
 - Own the complete journey from product idea and interface to deployment
 - Design for phones, limited bandwidth and real-world operating conditions
 - Keep private systems private while making public work easy to evaluate
+- Say less, ship more: one clear flagship per category, no inflated counts or borrowed claims
 - Improve through testing, feedback and measurable use
 
 ---
