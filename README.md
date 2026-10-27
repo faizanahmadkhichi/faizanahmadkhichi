@@ -2,19 +2,30 @@
 
 <img src="assets/github-profile-banner.svg" alt="Faizan Ahmad Khichi — Founder of FAK LABS, Software Developer, AI Engineer and Product Builder" width="100%" />
 
-# Faizan Ahmad Khichi
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E30613&center=true&vCenter=true&width=600&lines=Founder+%26+CEO%2C+FAK+LABS;Building+AI%2C+tools+%26+systems;Focus.+Build.+Elevate.)](https://github.com/faizanahmadkhichi)
 
-### Founder & CEO of FAK LABS · Software Developer · AI Engineer · Product Builder
+[![Portfolio](https://img.shields.io/badge/VIEW_PORTFOLIO-6C4BFF?style=for-the-badge)](https://portfolio.faizankhichi.me/)
+[![Explore FAK LAB](https://img.shields.io/badge/EXPLORE_FAK_LAB-111827?style=for-the-badge)](https://faizankhichi.me/)
+[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faklabs/)
+[![Fiverr](https://img.shields.io/badge/WORK_WITH_ME-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/faklabs)
 
-**I turn ambitious ideas into useful, production-ready digital products** — 108 free browser tools, a multi-tenant website hosting platform, and AI systems, designed, built and operated end-to-end from Pakistan for a global audience.
-
-Based in Lahore District, Punjab, Pakistan · Building for a global audience · Open to remote engineering roles & selected collaborations
-
-[![Portfolio](https://img.shields.io/badge/VIEW_PORTFOLIO-6C4BFF?style=for-the-badge)](https://portfolio.faizankhichi.me/) [![Explore FAK LAB](https://img.shields.io/badge/EXPLORE_FAK_LAB-111827?style=for-the-badge)](https://faizankhichi.me/) [![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faklabs/) [![Fiverr](https://img.shields.io/badge/WORK_WITH_ME-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/faklabs)
+![108 free browser tools](https://img.shields.io/badge/108-Free_Browser_Tools-E30613?style=flat-square)
+![10 live products](https://img.shields.io/badge/10-Live_Products-111827?style=flat-square)
+![Lahore, Pakistan](https://img.shields.io/badge/Lahore-Pakistan-111827?style=flat-square)
+![FAK LABS since Oct 2024](https://img.shields.io/badge/FAK_LABS-Since_Oct_2024-E30613?style=flat-square)
 
 </div>
 
 ---
+
+## At a glance
+
+| | |
+| --- | --- |
+| **108** | free browser tools on FAK LAB |
+| **10** | live products you can try below |
+| **1** | studio — FAK LABS, founded October 2024, built and operated end-to-end |
+| **0** | demos that never shipped — every flagship below has a live link |
 
 ## About me
 
@@ -27,28 +38,32 @@ I'm Faizan Ahmad Khichi, a software developer and AI engineer from Pakistan and 
 - ⚡ **Fun fact:** I'm a self-taught developer — everything on this profile was learned by building and shipping
 - 👤 **About:** 18 years old, based in Lahore District, Punjab, Pakistan; Founder & CEO of FAK LABS since October 2024; speaks English, Urdu, Punjabi and Hindi; attended Punjab College Sheikhupura
 
-## Start here
-
-| If you want to… | Start with… |
-| --- | --- |
-| Explore my strongest work | [Official portfolio](https://portfolio.faizankhichi.me/) |
-| Use my browser tools | [FAK LAB](https://faizankhichi.me/) |
-| Discuss a project | [LinkedIn](https://www.linkedin.com/in/faklabs/) or [Fiverr](https://www.fiverr.com/faklabs) |
-| Follow product development | Follow this GitHub profile and watch the pinned repositories |
-
 ## What I build
 
-- **AI & automation:** intelligent workflows, assistants, APIs and task automation
-- **Full-stack products:** accessible, responsive web applications and browser tools
-- **Cloud systems:** edge deployments, serverless services and scalable backends
-- **Android experiences:** mobile-first utilities designed for real-world constraints
-- **Security & forensics:** responsible OSINT, privacy and digital-analysis workflows
-- **API engineering:** documented REST APIs, provider integrations, web-data extraction and automation services
-- **AI infrastructure:** model fine-tuning, GPU inference endpoints and containerized cloud deployments
+```mermaid
+mindmap
+  root((Faizan Ahmad Khichi))
+    AI & automation
+      Assistants
+      APIs
+      Fine-tuning
+    Full-stack products
+      Web apps
+      Browser tools
+    Cloud systems
+      Edge deploys
+      Serverless
+    Android
+      Utilities
+      Bots
+    Security & forensics
+      OSINT
+      Privacy workflows
+```
 
 ## Featured products — try them live
 
-| Product | Purpose | Explore |
+| Product | What it does | Try it |
 | --- | --- | --- |
 | **FAK LAB** | Security, OSINT, developer, image, document and everyday browser tools | [Open platform →](https://faizankhichi.me/) |
 | **FAK LAB MUSIC** | Cloud-powered music discovery and streaming | [Listen now →](https://music.faizankhichi.me/) |
@@ -59,6 +74,19 @@ I'm Faizan Ahmad Khichi, a software developer and AI engineer from Pakistan and 
 ## APEX — desktop voice assistant
 
 **APEX** is my desktop voice assistant with a custom "Hey Neo" wake word, a live particle humanoid face, and hand-gesture control (open palm to follow, fist to grab, pinch to click, wrist roll to spin). The interactive humanoid runs at [apex.faizankhichi.me](https://apex.faizankhichi.me/).
+
+```mermaid
+flowchart LR
+    A["Hey Neo"] --> B["Humanoid face"]
+    B --> C["Voice + chat"]
+    C --> D["Hand gestures"]
+    D --> E["System control"]
+    style A fill:#0D1117,stroke:#E30613,color:#fff
+    style B fill:#0D1117,stroke:#E30613,color:#fff
+    style C fill:#0D1117,stroke:#E30613,color:#fff
+    style D fill:#0D1117,stroke:#E30613,color:#fff
+    style E fill:#0D1117,stroke:#E30613,color:#fff
+```
 
 Also live from FAK LABS: Passport Photo Maker (AI passport photos, 300-DPI export and print sheets), STL Maker (image-to-3D-printable relief), [Sound Effects](https://sounds-effects.fakcloud.tech/) (free sound effects library), and [FAK BOT](https://faklabbot.fakcloud.tech/) — full list on the [portfolio](https://portfolio.faizankhichi.me/).
 
@@ -91,49 +119,41 @@ Source code for production systems remains private, but these public briefs docu
 
 ## Technology toolkit
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-111827?style=flat-square&logo=go" alt="Go" />
-  <img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk" alt="Java" />
-  <img src="https://img.shields.io/badge/Kotlin-111827?style=flat-square&logo=kotlin" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/PHP-111827?style=flat-square&logo=php" alt="PHP" />
-  <img src="https://img.shields.io/badge/Bash-111827?style=flat-square&logo=gnubash" alt="Bash" />
-  <img src="https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&logo=tailwindcss" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs" alt="Next.js" />
-  <img src="https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Cloudflare-111827?style=flat-square&logo=cloudflare" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/Firebase-111827?style=flat-square&logo=firebase" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Supabase-111827?style=flat-square&logo=supabase" alt="Supabase" />
-  <img src="https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonwebservices" alt="AWS" />
-  <img src="https://img.shields.io/badge/Android-111827?style=flat-square&logo=android" alt="Android" />
-  <img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker" alt="Docker" />
-  <img src="https://img.shields.io/badge/PyTorch-111827?style=flat-square&logo=pytorch" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Hugging_Face-111827?style=flat-square&logo=huggingface" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/CUDA-111827?style=flat-square&logo=nvidia" alt="CUDA" />
-</p>
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python)
+![Go](https://img.shields.io/badge/Go-111827?style=flat-square&logo=go)
+![Java](https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk)
+![Kotlin](https://img.shields.io/badge/Kotlin-111827?style=flat-square&logo=kotlin)
+![PHP](https://img.shields.io/badge/PHP-111827?style=flat-square&logo=php)
+![Bash](https://img.shields.io/badge/Bash-111827?style=flat-square&logo=gnubash)
 
-### Practical capability map
-
-| Area | Experience |
-| --- | --- |
-| **Languages** | Python, JavaScript, TypeScript, Go, Java, Kotlin, PHP, Bash, HTML and CSS |
-| **Web & backend** | React, Next.js, Node.js, FastAPI, Tailwind CSS, REST APIs and Swagger/OpenAPI |
-| **Android & desktop** | Android apps with Kotlin/Java and XML; selected Windows application work |
-| **AI & inference** | PyTorch, Transformers, Diffusers, LoRA fine-tuning, GPU inference APIs and generative-media pipelines |
-| **Cloud & delivery** | Cloudflare Workers, Docker, VPS hosting, serverless GPU workloads and production deployment |
-| **Automation & data** | Bots, API integrations, responsible web-data extraction and workflow automation |
-
-## Why follow?
-
-New product launches, engineering case studies, and tools you can actually try — not demos that never shipped. Every flagship above has a live link. Try it first, then judge the work.
+### Web, AI & cloud
+![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextjs)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi)
+![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=flat-square&logo=pytorch)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-111827?style=flat-square&logo=cloudflare)
+![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker)
+![Android](https://img.shields.io/badge/Android-111827?style=flat-square&logo=android)
 
 ## How I work
+
+```mermaid
+flowchart LR
+    A["Idea"] --> B["Build"]
+    B --> C["Deploy"]
+    C --> D["Operate"]
+    D --> E["Improve"]
+    E -.feedback.-> B
+    style A fill:#0D1117,stroke:#E30613,color:#fff
+    style B fill:#0D1117,stroke:#E30613,color:#fff
+    style C fill:#0D1117,stroke:#E30613,color:#fff
+    style D fill:#0D1117,stroke:#E30613,color:#fff
+    style E fill:#0D1117,stroke:#E30613,color:#fff
+```
 
 - Build assets, not just hours: products and APIs that keep working for users after they ship
 - Own the complete journey from product idea and interface to deployment
@@ -151,5 +171,7 @@ New product launches, engineering case studies, and tools you can actually try �
 [**See my work**](https://portfolio.faizankhichi.me/) · [**Connect on LinkedIn**](https://www.linkedin.com/in/faklabs/) · [**Hire me on Fiverr**](https://www.fiverr.com/faklabs) · [**Explore FAK LABS**](https://github.com/FAK-LABS)
 
 *Building useful technology from Pakistan for the world.*
+
+![FAK LABS footer](https://capsule-render.vercel.app/api?type=waving&color=E30613&height=120&section=footer&text=FAK%20LABS&fontSize=40&fontColor=F5F6F7)
 
 </div>
