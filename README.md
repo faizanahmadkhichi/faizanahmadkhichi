@@ -52,6 +52,16 @@ I'm Faizan Ahmad Khichi, a software developer and AI engineer from Pakistan and 
 | **Poster Maker Pro** | A browser-based visual design and poster workspace | [Start designing →](https://faizankhichi.me/poster/) |
 | **AllDL** | Public-media download workflows across supported platforms | [Open AllDL →](https://alldl.faizankhichi.me/) |
 
+## FAK Cloud Engine — how a business benefits
+
+[FAK Cloud Engine](https://engine.fakcloud.tech/) is the no-code hosting and AI website builder behind FAK Cloud. A local business does not buy features — it gets customers, without an agency bill, servers, or waiting months.
+
+<img src="assets/fak-cloud-benefits.svg" alt="FAK Cloud Engine benefits: live today with no code, templates that fit, AI assistant 24/7, automatic SEO, one-click hosting, edit anytime" width="100%" />
+
+Plus: a Telegram bot builder (shop, seller, support and AI chat templates, hosted for you, no server to manage), and pricing that starts free — $0, then $12/month Starter or $29/month Business only when it pays. For plumbers, salons, clinics, restaurants, schools, freelancers and agencies.
+
+[Try FAK Cloud Engine →](https://engine.fakcloud.tech/)
+
 ## APEX — desktop voice assistant
 
 **APEX** is my desktop voice assistant with a custom "Hey Neo" wake word, a live particle humanoid face, and hand-gesture control (open palm to follow, fist to grab, pinch to click, wrist roll to spin). The interactive humanoid runs at [apex.faizankhichi.me](https://apex.faizankhichi.me/).

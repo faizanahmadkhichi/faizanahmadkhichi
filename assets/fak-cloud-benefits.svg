@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="640" viewBox="0 0 1100 640">
+<rect width="1100" height="640" rx="24" fill="#0D1117"/>
+<line x1="550" y1="225" x2="550" y2="130" stroke="#E30613" stroke-width="3"/>
+<line x1="640" y1="288" x2="767" y2="217" stroke="#E30613" stroke-width="3"/>
+<line x1="640" y1="352" x2="767" y2="423" stroke="#E30613" stroke-width="3"/>
+<line x1="550" y1="415" x2="550" y2="500" stroke="#E30613" stroke-width="3"/>
+<line x1="460" y1="352" x2="333" y2="423" stroke="#E30613" stroke-width="3"/>
+<line x1="460" y1="288" x2="333" y2="217" stroke="#E30613" stroke-width="3"/>
+<g><rect x="400" y="38" width="300" height="84" rx="18" fill="#141414" stroke="#E30613" stroke-width="1.5"/>
+<text x="550" y="66" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#F5F6F7">Live today, no code</text>
+<text x="550" y="92" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#BFBFBF">Online the same afternoon,</text>
+<text x="550" y="112" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#BFBFBF">no $1,500 agency bill</text></g>
+<g><rect x="740" y="158" width="300" height="84" rx="18" fill="#141414" stroke="#E30613" stroke-width="1.5"/>
+<text x="890" y="186" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#F5F6F7">Templates that fit</text>
+<text x="890" y="212" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#BFBFBF">A professional site in minutes,</text>
+<text x="890" y="232" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#BFBFBF">not months of waiting</text></g>
+<g><rect x="740" y="398" width="300" height="84" rx="18" fill="#141414" stroke="#E30613" stroke-width="1.5"/>
+<text x="890" y="426" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#F5F6F7">AI assistant, 24/7</text>
+<text x="890" y="452" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#BFBFBF">Answers customers while you work,</text>
+<text x="890" y="472" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#BFBFBF">never miss a lead</text></g>
+<g><rect x="400" y="508" width="300" height="84" rx="18" fill="#141414" stroke="#E30613" stroke-width="1.5"/>
+<text x="550" y="536" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#F5F6F7">Automatic SEO</text>
+<text x="550" y="562" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#BFBFBF">Google finds you first,</text>
+<text x="550" y="582" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#BFBFBF">locals call you, not rivals</text></g>
+<g><rect x="60" y="398" width="300" height="84" rx="18" fill="#141414" stroke="#E30613" stroke-width="1.5"/>
+<text x="210" y="426" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#F5F6F7">One-click hosting</text>
+<text x="210" y="452" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#BFBFBF">No servers, no DevOps,</text>
+<text x="210" y="472" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#BFBFBF">no maintenance nights</text></g>
+<g><rect x="60" y="158" width="300" height="84" rx="18" fill="#141414" stroke="#E30613" stroke-width="1.5"/>
+<text x="210" y="186" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#F5F6F7">Edit anytime</text>
+<text x="210" y="212" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#BFBFBF">Change prices, hours, photos</text>
+<text x="210" y="232" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#BFBFBF">from your phone in minutes</text></g>
+<circle cx="550" cy="320" r="92" fill="#E30613" stroke="#F5F6F7" stroke-width="3"/>
+<text x="550" y="308" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="900" fill="#FFFFFF">FAK CLOUD</text>
+<text x="550" y="334" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="900" fill="#FFFFFF">ENGINE</text>
+<text x="550" y="356" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#FFFFFF">Free to start - no card</text>
+</svg>
