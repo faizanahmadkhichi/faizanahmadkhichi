@@ -40,26 +40,7 @@ I'm Faizan Ahmad Khichi, a software developer and AI engineer from Pakistan and 
 
 ## What I build
 
-```mermaid
-mindmap
-  root((Faizan Ahmad Khichi))
-    AI & automation
-      Assistants
-      APIs
-      Fine-tuning
-    Full-stack products
-      Web apps
-      Browser tools
-    Cloud systems
-      Edge deploys
-      Serverless
-    Android
-      Utilities
-      Bots
-    Security & forensics
-      OSINT
-      Privacy workflows
-```
+<img src="assets/what-i-build.svg" alt="What I build — Faizan Ahmad Khichi: AI & automation, Full-stack products, Cloud systems, Android, Security & forensics" width="100%" />
 
 ## Featured products — try them live
 
@@ -172,6 +153,6 @@ flowchart LR
 
 *Building useful technology from Pakistan for the world.*
 
-![FAK LABS footer](https://capsule-render.vercel.app/api?type=waving&color=E30613&height=120&section=footer&text=FAK%20LABS&fontSize=40&fontColor=F5F6F7)
+<img src="assets/fak-labs-footer.svg" alt="FAK LABS" width="100%" />
 
 </div>
