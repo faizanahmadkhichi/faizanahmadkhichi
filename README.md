@@ -31,10 +31,10 @@
 
 ## GitHub Analytics
 
-Live from my own Cloudflare instance — private repositories counted, not just public. Most of my work is private, so public-only cards would undercount me; these don't.
+Live from my own Cloudflare instance — private repositories counted, not just public. Private work can't earn public stars, so I don't measure it by applause: what you see here is work done — commits, languages, and products shipped — not stars, PRs, or rank.
 
 <p align="center">
-  <img src="https://fak-github-stats.pages.dev/api/?username=faizanahmadkhichi&show_icons=true&count_private=true&bg_color=ffffff&title_color=e30613&text_color=111111&icon_color=e30613&border_color=d9d9d9&ring_color=e30613" alt="Faizan Ahmad Khichi's GitHub stats — private repositories counted" />
+  <img src="https://fak-github-stats.pages.dev/api/?username=faizanahmadkhichi&show_icons=true&count_private=true&hide=stars,prs,issues,contribs&hide_rank=true&bg_color=ffffff&title_color=e30613&text_color=111111&icon_color=e30613&border_color=d9d9d9" alt="Faizan Ahmad Khichi's GitHub stats — private repositories counted" />
   <img src="https://fak-github-stats.pages.dev/api/top-langs/?username=faizanahmadkhichi&count_private=true&layout=compact&bg_color=ffffff&title_color=e30613&text_color=111111&border_color=d9d9d9" alt="Faizan Ahmad Khichi's most used languages — private repositories counted" />
 </p>
 
