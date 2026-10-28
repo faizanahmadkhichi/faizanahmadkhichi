@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="640" viewBox="0 0 1100 640">
+<rect width="1100" height="640" fill="#FFFFFF" stroke="#D9D9D9" stroke-width="1"/>
+<line x1="550" y1="225" x2="550" y2="130" stroke="#E30613" stroke-width="2"/>
+<line x1="640" y1="288" x2="767" y2="217" stroke="#E30613" stroke-width="2"/>
+<line x1="640" y1="352" x2="767" y2="423" stroke="#E30613" stroke-width="2"/>
+<line x1="550" y1="415" x2="550" y2="500" stroke="#E30613" stroke-width="2"/>
+<line x1="460" y1="352" x2="333" y2="423" stroke="#E30613" stroke-width="2"/>
+<line x1="460" y1="288" x2="333" y2="217" stroke="#E30613" stroke-width="2"/>
+<g><rect x="400" y="38" width="300" height="84" fill="#FFFFFF" stroke="#D9D9D9" stroke-width="1"/>
+<rect x="400" y="38" width="4" height="84" fill="#E30613"/>
+<text x="550" y="66" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#111111">View-once saver</text>
+<text x="550" y="92" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#666666">Keep the photo, even when</text>
+<text x="550" y="112" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#666666">it was set to disappear</text></g>
+<g><rect x="740" y="158" width="300" height="84" fill="#FFFFFF" stroke="#D9D9D9" stroke-width="1"/>
+<rect x="740" y="158" width="4" height="84" fill="#E30613"/>
+<text x="890" y="186" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#111111">Anti-delete and anti-edit</text>
+<text x="890" y="212" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#666666">Read the original, even after</text>
+<text x="890" y="232" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#666666">they delete or edit it</text></g>
+<g><rect x="740" y="398" width="300" height="84" fill="#FFFFFF" stroke="#D9D9D9" stroke-width="1"/>
+<rect x="740" y="398" width="4" height="84" fill="#E30613"/>
+<text x="890" y="426" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#111111">AI auto-reply</text>
+<text x="890" y="452" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#666666">Answers while you are away,</text>
+<text x="890" y="472" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#666666">for the contacts you pick</text></g>
+<g><rect x="400" y="508" width="300" height="84" fill="#FFFFFF" stroke="#D9D9D9" stroke-width="1"/>
+<rect x="400" y="508" width="4" height="84" fill="#E30613"/>
+<text x="550" y="536" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#111111">Media downloaders</text>
+<text x="550" y="562" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#666666">Save any video link,</text>
+<text x="550" y="582" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#666666">right inside the chat</text></g>
+<g><rect x="60" y="398" width="300" height="84" fill="#FFFFFF" stroke="#D9D9D9" stroke-width="1"/>
+<rect x="60" y="398" width="4" height="84" fill="#E30613"/>
+<text x="210" y="426" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#111111">Sales Assistant</text>
+<text x="210" y="452" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#666666">Your shop on autopilot,</text>
+<text x="210" y="472" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#666666">you decide the deals</text></g>
+<g><rect x="60" y="158" width="300" height="84" fill="#FFFFFF" stroke="#D9D9D9" stroke-width="1"/>
+<rect x="60" y="158" width="4" height="84" fill="#E30613"/>
+<text x="210" y="186" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#111111">80+ commands</text>
+<text x="210" y="212" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#666666">One command for every task,</text>
+<text x="210" y="232" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#666666">rename any of them</text></g>
+<circle cx="550" cy="320" r="92" fill="#FFFFFF" stroke="#E30613" stroke-width="3"/>
+<text x="550" y="314" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="30" font-weight="900" letter-spacing="2" fill="#111111">FAK BOT</text>
+<text x="550" y="342" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#666666">WhatsApp assistant</text>
+</svg>

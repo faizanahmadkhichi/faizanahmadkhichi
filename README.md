@@ -11,6 +11,7 @@
 
 ![108 free browser tools](https://img.shields.io/badge/108-Free_Browser_Tools-E30613?style=flat-square)
 ![10 live products](https://img.shields.io/badge/10-Live_Products-111827?style=flat-square)
+![106 repos total](https://img.shields.io/badge/106-Repos_Total-E30613?style=flat-square)
 ![Lahore, Pakistan](https://img.shields.io/badge/Lahore-Pakistan-111827?style=flat-square)
 ![FAK LABS since Oct 2024](https://img.shields.io/badge/FAK_LABS-Since_Oct_2024-E30613?style=flat-square)
 
@@ -26,6 +27,7 @@
 | **10** | live products you can try below |
 | **1** | studio — FAK LABS, founded October 2024, built and operated end-to-end |
 | **0** | demos that never shipped — every flagship below has a live link |
+| **106** | repositories in total — 103 private, 3 public (counted, not listed; verified 2026-10-28) |
 
 ## About me
 
@@ -62,6 +64,16 @@ Plus: a Telegram bot builder (shop, seller, support and AI chat templates, hoste
 
 [Try FAK Cloud Engine →](https://engine.fakcloud.tech/)
 
+## FAK BOT — WhatsApp, supercharged
+
+[FAK BOT](https://faklabbot.fakcloud.tech/) saves view-once photos, recovers deleted messages, replies with AI, and downloads from YouTube, TikTok and Instagram — right inside WhatsApp. Free, with no ads and no tracking. It is not a WhatsApp mod, and it pairs with a QR code or pairing code — nothing to install on a server, and your data stays in your own private vault.
+
+<img src="assets/fak-bot-benefits.svg" alt="FAK BOT benefits: view-once saver, anti-delete and anti-edit, AI auto-reply, media downloaders, Sales Assistant, 80+ commands" width="100%" />
+
+Plus: AI companions Aliza, Zayn or a Custom persona with memory and natural timing, a Status Studio that catches statuses live, a swipeable product menu, and a Keep Running screen that keeps it alive 24/7. Current version v6.158 (build 174), one universal 56.2 MB APK for ARM64 and ARMv7, with its SHA-256 published on the download page.
+
+[Download FAK BOT →](https://faklabbot.fakcloud.tech/download) · [Pair it →](https://pair.fakcloud.tech/)
+
 ## APEX — desktop voice assistant
 
 **APEX** is my desktop voice assistant with a custom "Hey Neo" wake word, a live particle humanoid face, and hand-gesture control (open palm to follow, fist to grab, pinch to click, wrist roll to spin). The interactive humanoid runs at [apex.faizankhichi.me](https://apex.faizankhichi.me/).
@@ -79,7 +91,7 @@ flowchart LR
     style E fill:#0D1117,stroke:#E30613,color:#fff
 ```
 
-Also live from FAK LABS: Passport Photo Maker (AI passport photos, 300-DPI export and print sheets), STL Maker (image-to-3D-printable relief), [Sound Effects](https://sounds-effects.fakcloud.tech/) (free sound effects library), and [FAK BOT](https://faklabbot.fakcloud.tech/) — full list on the [portfolio](https://portfolio.faizankhichi.me/).
+Also live from FAK LABS: Passport Photo Maker (AI passport photos, 300-DPI export and print sheets), STL Maker (image-to-3D-printable relief), [Sound Effects](https://sounds-effects.fakcloud.tech/) (free sound effects library), — full list on the [portfolio](https://portfolio.faizankhichi.me/).
 
 Selected client work in the same period — portfolio upgrades for SEO, proper hosting, and custom domains — is kept off this profile by name, by design: the work speaks, the client list does not.
 
