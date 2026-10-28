@@ -31,7 +31,7 @@
 
 ## GitHub Analytics
 
-Live from my own Cloudflare instance — private repositories counted, not just public. Private work can't earn public stars, so I don't measure it by applause: what you see here is work done — commits, languages, and products shipped — not stars, PRs, or rank.
+Private by design — my code is too valuable to give away raw just to showcase it. Use the real projects instead. These analytics count that private work, without showing a single line of code.
 
 <img src="assets/github-analytics-map.svg" alt="GitHub Analytics map: your repos (106 total, 103 private), Cloudflare stats instance with private counting, smart filter hiding stars, PRs, issues and rank, Swiss cards on profile showing commits and languages only" width="100%" />
 
