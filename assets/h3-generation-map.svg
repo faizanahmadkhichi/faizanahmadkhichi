@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="700" viewBox="0 0 1100 700">
+<rect width="1100" height="700" fill="#FFFFFF" stroke="#D9D9D9" stroke-width="1"/>
+<g><rect x="270" y="23" width="560" height="64" fill="#FFFFFF" stroke="#D9D9D9" stroke-width="1"/>
+<rect x="270" y="23" width="4" height="64" fill="#E30613"/>
+<text x="550" y="50" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#111111">1 - Studio in your browser</text>
+<text x="550" y="70" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#666666">Upload references, describe the scene</text>
+</g>
+<line x1="550" y1="87" x2="550" y2="108" stroke="#E30613" stroke-width="2"/><polygon points="550,108 544,98 556,98" fill="#E30613"/>
+<g><rect x="270" y="108" width="560" height="64" fill="#FFFFFF" stroke="#D9D9D9" stroke-width="1"/>
+<rect x="270" y="108" width="4" height="64" fill="#E30613"/>
+<text x="550" y="135" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#111111">2 - Cloudflare Worker API</text>
+<text x="550" y="155" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#666666">Jobs, uploads, fleet control, budget</text>
+</g>
+<line x1="550" y1="172" x2="550" y2="193" stroke="#E30613" stroke-width="2"/><polygon points="550,193 544,183 556,183" fill="#E30613"/>
+<g><rect x="270" y="193" width="560" height="64" fill="#FFFFFF" stroke="#D9D9D9" stroke-width="1"/>
+<rect x="270" y="193" width="4" height="64" fill="#E30613"/>
+<text x="550" y="220" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#111111">3 - RunPod Serverless</text>
+<text x="550" y="240" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#666666">GPU spins up on demand</text>
+</g>
+<line x1="550" y1="257" x2="550" y2="278" stroke="#E30613" stroke-width="2"/><polygon points="550,278 544,268 556,268" fill="#E30613"/>
+<g><rect x="270" y="278" width="560" height="64" fill="#FFFFFF" stroke="#D9D9D9" stroke-width="1"/>
+<rect x="270" y="278" width="4" height="64" fill="#E30613"/>
+<text x="550" y="305" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#111111">4 - ComfyUI + MiniMax H3</text>
+<text x="550" y="325" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#666666">Image + sound + motion inference</text>
+</g>
+<line x1="550" y1="342" x2="550" y2="363" stroke="#E30613" stroke-width="2"/><polygon points="550,363 544,353 556,353" fill="#E30613"/>
+<g><rect x="270" y="363" width="560" height="64" fill="#FFFFFF" stroke="#D9D9D9" stroke-width="1"/>
+<rect x="270" y="363" width="4" height="64" fill="#E30613"/>
+<text x="550" y="390" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#111111">5 - Download the video</text>
+<text x="550" y="410" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#666666">15 seconds, 24 FPS, 768p MP4</text>
+</g>
+<g>
+<rect x="25" y="470" width="320" height="84" fill="#FFFFFF" stroke="#D9D9D9" stroke-width="1"/>
+<rect x="25" y="470" width="4" height="84" fill="#E30613"/>
+<text x="185" y="502" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#111111">Up to 9 images</text>
+<text x="185" y="526" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#666666">up to 3 audio, up to 3 video</text>
+<rect x="390" y="470" width="320" height="84" fill="#FFFFFF" stroke="#D9D9D9" stroke-width="1"/>
+<rect x="390" y="470" width="4" height="84" fill="#E30613"/>
+<text x="550" y="502" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#111111">Cold start ~4 min first run</text>
+<text x="550" y="526" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#666666">warm worker: immediate</text>
+<rect x="755" y="470" width="320" height="84" fill="#FFFFFF" stroke="#D9D9D9" stroke-width="1"/>
+<rect x="755" y="470" width="4" height="84" fill="#E30613"/>
+<text x="915" y="502" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#111111">$0 when idle</text>
+<text x="915" y="526" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#666666">worker stops 5 sec after a job</text>
+</g>
+<text x="550" y="600" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#666666">~$0.20-$0.35 per video depending on GPU  |  Warm reserve ~$0.04/hr  |  First job auto-warms a worker for 10 minutes</text>
+</svg>

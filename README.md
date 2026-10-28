@@ -110,6 +110,16 @@ How it works, in your words: a multi-step agent that takes an idea or title, res
 
 [**Read the VistaClip AI case study →**](case-studies/vistaclip-ai.md) · [**Discuss a similar project →**](https://www.linkedin.com/in/faklabs/) · [**Hire me →**](https://www.fiverr.com/faklabs)
 
+### H3 Video Generation — on-demand MiniMax video
+
+H3 is on-demand video generation using MiniMax H3 on RunPod Serverless, controlled by a Cloudflare Worker API and served through a Cloudflare Pages studio. You upload references, describe the scene, and the GPU spins up only for your job — then shuts down within 5 seconds of completion, so it costs $0 when idle.
+
+<img src="assets/h3-generation-map.svg" alt="H3 Video Generation pipeline: studio in browser, Cloudflare Worker API, RunPod Serverless GPU, ComfyUI plus MiniMax H3 inference, download a 15-second 24 FPS 768p MP4" width="100%" />
+
+The studio takes up to 9 images, up to 3 audio clips and up to 3 video clips (12 combined max, 25 MiB per file), with prompts that reference images directly. Output is a 15-second, 24 FPS, 768p MP4 with image, sound and motion. Cold start is about 4 minutes on a first run while the model image loads, then immediate on a warm worker — and a first job auto-warms a worker for 10 minutes. Typical cost is about $0.20–$0.35 per video depending on GPU, with a warm reserve at about $0.04/hr.
+
+[Open the H3 Generation Studio →](https://studio.faizanahmadkhichi.dev/)
+
 ### Current AI research & development
 
 **AI Shayri by FAK** is an active private R&D project for Urdu poetry language adaptation. The current work includes a provenance-preserving classical Urdu dataset, deterministic train/validation/test splits, dataset validation, poem-preserving training chunks and a Qwen3-0.6B LoRA pilot. The next stage focuses on controlled generation by theme, poetic form, rhyme, refrain and length.
