@@ -29,6 +29,15 @@
 | **0** | demos that never shipped — every flagship below has a live link |
 | **106** | repositories in total — 103 private, 3 public (counted, not listed; verified 2026-10-28) |
 
+## GitHub Analytics
+
+Live from my own Cloudflare instance — private repositories counted, not just public. Most of my work is private, so public-only cards would undercount me; these don't.
+
+<p align="center">
+  <img src="https://fak-github-stats.pages.dev/api/?username=faizanahmadkhichi&show_icons=true&count_private=true&bg_color=ffffff&title_color=e30613&text_color=111111&icon_color=e30613&border_color=d9d9d9&ring_color=e30613" alt="Faizan Ahmad Khichi's GitHub stats — private repositories counted" />
+  <img src="https://fak-github-stats.pages.dev/api/top-langs/?username=faizanahmadkhichi&count_private=true&layout=compact&bg_color=ffffff&title_color=e30613&text_color=111111&border_color=d9d9d9" alt="Faizan Ahmad Khichi's most used languages — private repositories counted" />
+</p>
+
 ## About me
 
 I'm Faizan Ahmad Khichi, a software developer and AI engineer from Pakistan and the founder of **FAK LABS**, an independent software studio. I independently design, build, deploy and operate production software across **AI, automation, cybersecurity, mobile, cloud infrastructure and the modern web** — my production repositories are mostly private, so this profile focuses on public products you can evaluate directly.
