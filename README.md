@@ -35,7 +35,7 @@ Private by design — my code is too valuable to give away raw just to showcase 
 
 <p align="center">
   <img src="https://fak-github-stats.pages.dev/api/?username=faizanahmadkhichi&show_icons=true&count_private=true&hide=stars,prs,issues,contribs&hide_rank=true&bg_color=ffffff&title_color=e30613&text_color=111111&icon_color=e30613&border_color=d9d9d9" alt="Faizan Ahmad Khichi's GitHub stats — private repositories counted" />
-  <img src="https://fak-github-stats.pages.dev/api/top-langs/?username=faizanahmadkhichi&count_private=true&layout=compact&bg_color=ffffff&title_color=e30613&text_color=111111&border_color=d9d9d9" alt="Faizan Ahmad Khichi's most used languages — private repositories counted" />
+  <img src="https://fak-github-stats.pages.dev/api/top-langs/?username=faizanahmadkhichi&count_private=true&layout=compact&langs_count=12&bg_color=ffffff&title_color=e30613&text_color=111111&border_color=d9d9d9" alt="Faizan Ahmad Khichi's most used languages — private repositories counted" />
 </p>
 
 ## About me
