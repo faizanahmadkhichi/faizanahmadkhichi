@@ -112,7 +112,7 @@ How it works, in your words: a multi-step agent that takes an idea or title, res
 
 ### H3 Video Generation — on-demand MiniMax video
 
-H3 is on-demand video generation using MiniMax H3 on RunPod Serverless, controlled by a Cloudflare Worker API and served through a Cloudflare Pages studio. You upload references, describe the scene, and the GPU spins up only for your job — then shuts down within 5 seconds of completion, so it costs $0 when idle.
+H3 is on-demand video generation using MiniMax H3 on RunPod Serverless, controlled by a Cloudflare Worker API and served through a Cloudflare Pages studio. You upload references, describe the scene, and the GPU spins up only for your job — then shuts down within 5 seconds of completion, so it costs almost $0 when idle.
 
 <img src="assets/h3-generation-map.svg" alt="H3 Video Generation pipeline: studio in browser, Cloudflare Worker API, RunPod Serverless GPU, ComfyUI plus MiniMax H3 inference, download a 15-second 24 FPS 768p MP4" width="100%" />
 
