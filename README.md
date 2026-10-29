@@ -41,7 +41,7 @@ Private by design — my code is too valuable to give away raw just to showcase 
 
 ## About me
 
-I'm Faizan Ahmad Khichi, a software developer and AI engineer from Pakistan and the founder of **FAK LABS**, an independent software studio. I independently design, build, deploy and operate production software across **AI, automation, cybersecurity, mobile, cloud infrastructure and the modern web** — my production repositories are mostly private, so this profile focuses on public products you can evaluate directly.
+I'm Faizan Ahmad Khichi, a software developer, AI engineer, and security researcher from Pakistan and the founder of **FAK LABS**, an independent software studio. I independently design, build, deploy and operate production software across **AI, automation, cybersecurity, mobile, cloud infrastructure and the modern web** — my production repositories are mostly private, so this profile focuses on public products you can evaluate directly.
 
 - 🔭 **Currently:** building **VistaClip AI** (quality-controlled AI video production), researching **AI Shayri** (Urdu poetry language adaptation with Qwen3 LoRA fine-tuning), operating **FAK LAB** (108 free browser tools) and **FAK Cloud** (multi-tenant website hosting), and shipping **APEX as a native desktop app** (PyQt6, site parity as the floor, system control on top)
 - 🌱 **Learning:** deepening LLM fine-tuning and GPU inference work through active R&D
