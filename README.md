@@ -8,6 +8,7 @@
 [![Explore FAK LAB](https://img.shields.io/badge/EXPLORE_FAK_LAB-111827?style=for-the-badge)](https://faizankhichi.me/)
 [![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faklabs/)
 [![Fiverr](https://img.shields.io/badge/WORK_WITH_ME-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/faklabs)
+[![WhatsApp](https://img.shields.io/badge/CHAT_ON_WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923323554001)
 
 ![108 free browser tools](https://img.shields.io/badge/108-Free_Browser_Tools-E30613?style=flat-square)
 ![10 live products](https://img.shields.io/badge/10-Live_Products-111827?style=flat-square)
@@ -45,7 +46,7 @@ I'm Faizan Ahmad Khichi, a software developer and AI engineer from Pakistan and 
 - 🔭 **Currently:** building **VistaClip AI** (quality-controlled AI video production), researching **AI Shayri** (Urdu poetry language adaptation with Qwen3 LoRA fine-tuning), operating **FAK LAB** (108 free browser tools) and **FAK Cloud** (multi-tenant website hosting), and shipping **APEX as a native desktop app** (PyQt6, site parity as the floor, system control on top)
 - 🌱 **Learning:** deepening LLM fine-tuning and GPU inference work through active R&D
 - 🎯 **Goals:** ship VistaClip AI publicly, grow FAK LAB's global reach, and take on a remote software engineering role
-- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/faklabs/) (fastest) or [Fiverr](https://www.fiverr.com/faklabs) for project work
+- 📫 **Reach me:** [WhatsApp +92 332 3554001](https://wa.me/923323554001) (fastest), [LinkedIn](https://www.linkedin.com/in/faklabs/), or [Fiverr](https://www.fiverr.com/faklabs) for project work
 - ⚡ **Fun fact:** I'm a self-taught developer — everything on this profile was learned by building and shipping
 - 👤 **About:** 18 years old, based in Lahore District, Punjab, Pakistan; Founder & CEO of FAK LABS since October 2024; speaks English, Urdu, Punjabi and Hindi; attended Punjab College Sheikhupura
 
@@ -195,7 +196,7 @@ flowchart LR
 
 ### Have an idea worth building?
 
-[**See my work**](https://portfolio.faizankhichi.me/) · [**Connect on LinkedIn**](https://www.linkedin.com/in/faklabs/) · [**Hire me on Fiverr**](https://www.fiverr.com/faklabs) · [**Explore FAK LABS**](https://github.com/FAK-LABS)
+[**Chat on WhatsApp**](https://wa.me/923323554001) · [**See my work**](https://portfolio.faizankhichi.me/) · [**Connect on LinkedIn**](https://www.linkedin.com/in/faklabs/) · [**Hire me on Fiverr**](https://www.fiverr.com/faklabs) · [**Explore FAK LABS**](https://github.com/FAK-LABS)
 
 *Building useful technology from Pakistan for the world.*
 
