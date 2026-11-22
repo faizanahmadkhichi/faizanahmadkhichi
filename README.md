@@ -12,8 +12,8 @@
 
 ![108 free browser tools](https://img.shields.io/badge/108-Free_Browser_Tools-E30613?style=flat-square)
 ![10 live products](https://img.shields.io/badge/10-Live_Products-111827?style=flat-square)
-![106 repos total](https://img.shields.io/badge/106-Repos_Total-E30613?style=flat-square)
-![Lahore, Pakistan](https://img.shields.io/badge/Lahore-Pakistan-111827?style=flat-square)
+![133 repos total](https://img.shields.io/badge/133-Repos_Total-E30613?style=flat-square)
+![Pakistan](https://img.shields.io/badge/Pakistan-111827?style=flat-square)
 ![FAK LABS since Oct 2024](https://img.shields.io/badge/FAK_LABS-Since_Oct_2024-E30613?style=flat-square)
 
 </div>
@@ -24,11 +24,11 @@
 
 | | |
 | --- | --- |
-| **108** | free browser tools on FAK LAB |
-| **10** | live products you can try below |
 | **1** | studio — FAK LABS, founded October 2024, built and operated end-to-end |
 | **0** | demos that never shipped — every flagship below has a live link |
-| **106** | repositories in total — 103 private, 3 public (counted, not listed; verified 2026-10-28) |
+| **108** | free browser tools on FAK LAB |
+| **10** | live products you can try below |
+| **133** | repositories in total — 126 private, 7 public (counted, not listed; verified 2026-11-22) |
 
 ## GitHub Analytics
 
@@ -43,26 +43,26 @@ Private by design — my code is too valuable to give away raw just to showcase 
 
 I'm Faizan Ahmad Khichi, a software developer, AI engineer, and security researcher from Pakistan and the founder of **FAK LABS**, an independent software studio. I independently design, build, deploy and operate production software across **AI, automation, cybersecurity, mobile, cloud infrastructure and the modern web** — my production repositories are mostly private, so this profile focuses on public products you can evaluate directly.
 
-- 🔭 **Currently:** building **VistaClip AI** (quality-controlled AI video production), researching **AI Shayri** (Urdu poetry language adaptation with Qwen3 LoRA fine-tuning), operating **FAK LAB** (108 free browser tools) and **FAK Cloud** (multi-tenant website hosting), and shipping **APEX as a native desktop app** (PyQt6, site parity as the floor, system control on top)
+- 🔭 **Currently:** operating **FAK BOT** (WhatsApp automation, v6.245) and **FAK Cloud** (multi-tenant website hosting), building **VistaClip AI** (quality-controlled AI video production), researching **AI Shayri** (Urdu poetry language adaptation with Qwen3 LoRA fine-tuning), operating **FAK LAB** (108 free browser tools), and shipping **APEX as a native desktop app** (PyQt6, site parity as the floor, system control on top)
 - 🌱 **Learning:** deepening LLM fine-tuning and GPU inference work through active R&D
 - 🎯 **Goals:** ship VistaClip AI publicly, grow FAK LAB's global reach, and take on a remote software engineering role
 - 📫 **Reach me:** [hello@faizankhichi.me](mailto:hello@faizankhichi.me) (fastest), [LinkedIn](https://www.linkedin.com/in/faklabs/), or [Fiverr](https://www.fiverr.com/faklabs) for project work
 - ⚡ **Fun fact:** I'm a self-taught developer — everything on this profile was learned by building and shipping
-- 👤 **About:** 18 years old, based in Lahore District, Punjab, Pakistan; Founder & CEO of FAK LABS since October 2024; speaks English, Urdu, Punjabi and Hindi; attended Punjab College Sheikhupura
+- 👤 **About:** 18 years old, based in Pakistan; Founder & CEO of FAK LABS since October 2024; speaks English, Urdu, Punjabi and Hindi; attended Punjab College
 
 ## What I build
 
 <img src="assets/what-i-build.svg" alt="What I build — Faizan Ahmad Khichi: AI & automation, Full-stack products, Cloud systems, Android, Security & forensics" width="100%" />
 
-## Featured products — try them live
+## FAK BOT — WhatsApp, supercharged
 
-| Product | What it does | Try it |
-| --- | --- | --- |
-| **FAK LAB** | Security, OSINT, developer, image, document and everyday browser tools | [Open platform →](https://faizankhichi.me/) |
-| **FAK LAB MUSIC** | Cloud-powered music discovery and streaming | [Listen now →](https://music.faizankhichi.me/) |
-| **Islamic Portal** | Quran, Hadith, prayer times, duas and daily resources | [Visit portal →](https://quran.fakcloud.tech/) |
-| **Poster Maker Pro** | A browser-based visual design and poster workspace | [Start designing →](https://faizankhichi.me/poster/) |
-| **AllDL** | Public-media download workflows across supported platforms | [Open AllDL →](https://alldl.faizankhichi.me/) |
+[FAK BOT](https://faklabbot.fakcloud.tech/) saves view-once photos, recovers deleted messages, replies with AI, and downloads from YouTube, TikTok and Instagram — right inside WhatsApp. Free, with no ads and no tracking. It is not a WhatsApp mod, and it pairs with a QR code or pairing code — nothing to install on a server, and your data stays in your own private vault.
+
+<img src="assets/fak-bot-benefits.svg" alt="FAK BOT benefits: view-once saver, anti-delete and anti-edit, AI auto-reply, media downloaders, Sales Assistant, 550+ commands" width="100%" />
+
+Plus: AI companions Aliza, Zayn or a Custom persona with memory and natural timing, a Status Studio that catches statuses live, a swipeable product menu, and a Keep Running screen that keeps it alive 24/7. Current version v6.245, 550+ commands, with its SHA-256 published on the download page.
+
+[Download FAK BOT →](https://faklabbot.fakcloud.tech/download) · [Pair it →](https://pair.fakcloud.tech/)
 
 ## FAK Cloud Engine — how a business benefits
 
@@ -74,38 +74,20 @@ Plus: a Telegram bot builder (shop, seller, support and AI chat templates, hoste
 
 [Try FAK Cloud Engine →](https://engine.fakcloud.tech/)
 
-## FAK BOT — WhatsApp, supercharged
+## Open APIs
 
-[FAK BOT](https://faklabbot.fakcloud.tech/) saves view-once photos, recovers deleted messages, replies with AI, and downloads from YouTube, TikTok and Instagram — right inside WhatsApp. Free, with no ads and no tracking. It is not a WhatsApp mod, and it pairs with a QR code or pairing code — nothing to install on a server, and your data stays in your own private vault.
+Public APIs from FAK LABS — open source, no key, no login where stated. The docs repos carry the endpoint URLs and how to use them, nothing else.
 
-<img src="assets/fak-bot-benefits.svg" alt="FAK BOT benefits: view-once saver, anti-delete and anti-edit, AI auto-reply, media downloaders, Sales Assistant, 80+ commands" width="100%" />
+| API | What it does | Use it |
+| --- | --- | --- |
+| **YouTube Search API** | YouTube search: videos, playlists, Shorts, filters | [Live →](https://yt-api.faizankhichi.me/) · [Docs →](https://github.com/FAK-LABS/youtube-search-api) |
+| **TikTok Search API** | TikTok search: videos, users and tabs — a CLI script you run on your own VPS, Termux or PC | [Docs →](https://github.com/FAK-LABS/tiktok-search-api) |
+| **TikTok API** | TikTok endpoints and usage | [Docs →](https://github.com/FAK-LABS/tiktok-api) |
+| **X API** | X endpoints and usage | [Docs →](https://github.com/FAK-LABS/x-api-docs) |
 
-Plus: AI companions Aliza, Zayn or a Custom persona with memory and natural timing, a Status Studio that catches statuses live, a swipeable product menu, and a Keep Running screen that keeps it alive 24/7. Current version v6.158 (build 174), one universal 56.2 MB APK for ARM64 and ARMv7, with its SHA-256 published on the download page.
+All of them live in the [FAK LABS organization](https://github.com/FAK-LABS) (6 public repos) — the public API repos are documentation only.
 
-[Download FAK BOT →](https://faklabbot.fakcloud.tech/download) · [Pair it →](https://pair.fakcloud.tech/)
-
-## APEX — desktop voice assistant
-
-**APEX** is my desktop voice assistant with a custom "Hey Neo" wake word, a live particle humanoid face, and hand-gesture control (open palm to follow, fist to grab, pinch to click, wrist roll to spin). The interactive humanoid runs at [apex.faizankhichi.me](https://apex.faizankhichi.me/).
-
-```mermaid
-flowchart LR
-    A["Hey Neo"] --> B["Humanoid face"]
-    B --> C["Voice + chat"]
-    C --> D["Hand gestures"]
-    D --> E["System control"]
-    style A fill:#0D1117,stroke:#E30613,color:#fff
-    style B fill:#0D1117,stroke:#E30613,color:#fff
-    style C fill:#0D1117,stroke:#E30613,color:#fff
-    style D fill:#0D1117,stroke:#E30613,color:#fff
-    style E fill:#0D1117,stroke:#E30613,color:#fff
-```
-
-Also live from FAK LABS: Passport Photo Maker (AI passport photos, 300-DPI export and print sheets), STL Maker (image-to-3D-printable relief), [Sound Effects](https://sounds-effects.fakcloud.tech/) (free sound effects library), — full list on the [portfolio](https://portfolio.faizankhichi.me/).
-
-Selected client work in the same period — portfolio upgrades for SEO, proper hosting, and custom domains — is kept off this profile by name, by design: the work speaks, the client list does not.
-
-## Flagship private product
+## AI video
 
 ### VistaClip AI — intelligent video creation and editing
 
@@ -144,6 +126,37 @@ Source code for production systems remains private, but these public briefs docu
 - [VistaClip AI — building a quality-controlled AI video production system](case-studies/vistaclip-ai.md)
 - [AllDL — designing a resilient multi-provider media workflow](case-studies/alldl.md)
 - [Poster Maker Pro — creating a responsive browser design workspace](case-studies/poster-maker-pro.md)
+
+## Featured products — try them live
+
+| Product | What it does | Try it |
+| --- | --- | --- |
+| **FAK LAB** | Security, OSINT, developer, image, document and everyday browser tools | [Open platform →](https://faizankhichi.me/) |
+| **FAK LAB MUSIC** | Cloud-powered music discovery and streaming | [Listen now →](https://music.faizankhichi.me/) |
+| **Islamic Portal** | Quran, Hadith, prayer times, duas and daily resources | [Visit portal →](https://quran.fakcloud.tech/) |
+| **Poster Maker Pro** | A browser-based visual design and poster workspace | [Start designing →](https://faizankhichi.me/poster/) |
+| **AllDL** | Public-media download workflows across supported platforms | [Open AllDL →](https://alldl.faizankhichi.me/) |
+
+## APEX — desktop voice assistant
+
+**APEX** is my desktop voice assistant with a custom "Hey Neo" wake word, a live particle humanoid face, and hand-gesture control (open palm to follow, fist to grab, pinch to click, wrist roll to spin). The interactive humanoid runs at [apex.faizankhichi.me](https://apex.faizankhichi.me/).
+
+```mermaid
+flowchart LR
+    A["Hey Neo"] --> B["Humanoid face"]
+    B --> C["Voice + chat"]
+    C --> D["Hand gestures"]
+    D --> E["System control"]
+    style A fill:#0D1117,stroke:#E30613,color:#fff
+    style B fill:#0D1117,stroke:#E30613,color:#fff
+    style C fill:#0D1117,stroke:#E30613,color:#fff
+    style D fill:#0D1117,stroke:#E30613,color:#fff
+    style E fill:#0D1117,stroke:#E30613,color:#fff
+```
+
+Also live from FAK LABS: Passport Photo Maker (AI passport photos, 300-DPI export and print sheets), STL Maker (image-to-3D-printable relief), [Sound Effects](https://sounds-effects.fakcloud.tech/) (free sound effects library), — full list on the [portfolio](https://portfolio.faizankhichi.me/).
+
+Selected client work in the same period — portfolio upgrades for SEO, proper hosting, and custom domains — is kept off this profile by name, by design: the work speaks, the client list does not.
 
 ## Technology toolkit
 
@@ -203,4 +216,3 @@ flowchart LR
 <img src="assets/fak-labs-footer.svg" alt="FAK LABS" width="100%" />
 
 </div>
-
